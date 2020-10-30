@@ -4,4 +4,5 @@ Hi! I'm Callum, a 13 year old (Year 9) developer from the UK. I code all sorts o
 You can contact me on discord at Cxllm#7067
 <br><br>
 [![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia&count_private=true&hide=issues,prs,stars)](https://github.com/cxllm)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxllm&theme=algolia&layout=compact)](https://github.com/cxllm)
+<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxllm&theme=algolia)](https://github.com/cxllm)
