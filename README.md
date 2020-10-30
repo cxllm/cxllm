@@ -1,9 +1,9 @@
 ## Welcome
-Hi! I'm Callum, a 13 year old developer from the UK. I code all sorts of things, mainly in TypeScript and JavaScript. You can find some stats from my profile below
+Hi! I'm Callum, a 13 year old (Year 9) developer from the UK. I code all sorts of things, mainly in TypeScript and JavaScript and currently, I'm learning Python and Golang
 <br><br>
 [![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia&count_private=true&hide=issues,prs,stars)](https://github.com/cxllm)
-<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxllm&theme=algolia)](https://github.com/cxllm)
+
 <!--
 **cxllm/cxllm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
