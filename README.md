@@ -1,7 +1,7 @@
 ## Hi, I'm Callum
 I am a 13 year old developer from the UK
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia)
+![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia&count_private=true)
 <!--
 **cxllm/cxllm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
