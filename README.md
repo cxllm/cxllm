@@ -1,5 +1,5 @@
-## Hi, I'm Callum
-I am a 13 year old developer from the UK
+## I'm Callum
+Welcome to my page!
 <br>
 [![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia&count_private=true&hide=issues,prs,stars)](https://github.com/cxllm)
 <br>
