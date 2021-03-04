@@ -1,5 +1,5 @@
 ## Welcome
-Hi! I'm Callum, a 13 year old developer from the UK. I code all sorts of things, mainly in TypeScript and JavaScript and I'm currently learning Python and Golang.
+Hi! I'm Callum, a 13 year old developer from the UK. I code all sorts of things, mainly in TypeScript and JavaScript and I'm currently learning Rust.
 <br>
 Some Links:
 [Website](https://cxllm.xyz/) | [Twitter](https://twitter.com/CX11M) | [Discord](https://discord.com/users/536949735299219467)
