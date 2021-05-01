@@ -2,9 +2,9 @@
 Hi! I'm Callum, a 13 year old developer from the UK. I code all sorts of things, mainly in TypeScript, JavaScript & Python.
 <br>
 ## Contact Me
-- Discord: `Callum#7067`
-- Email: `me@cxllm.xyz`
-- Twitter: `@CX11M`
+- Discord: [`Callum#7067`](https://discord.com/users/536949735299219467)
+- Email: [`me@cxllm.xyz`](mailto:me@cxllm.xyz)
+- Twitter: [`@CX11M`](https://twitter.com/CX11M)
 # Some Links
 - [Website](https://cxllm.xyz/)
 - [Twitter](https://twitter.com/CX11M) 
