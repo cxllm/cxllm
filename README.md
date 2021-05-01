@@ -1,5 +1,5 @@
-## 👋 
-Hi! I'm Callum, a 13 year old developer from the UK. I code all sorts of things, mainly in TypeScript, JavaScript & Python.
+## Hello 👋 
+I'm Callum, a 13 year old developer from the UK. I code all sorts of things, mainly in TypeScript, JavaScript & Python.
 <br>
 <img src="https://avatars.githubusercontent.com/u/59397232?v=4"></img>
 <br>
