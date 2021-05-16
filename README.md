@@ -7,6 +7,7 @@ I'm Callum, a 13 year old developer from the UK. I code all sorts of things, mai
 - [**Corynth**](https://corynth.xyz) ([Source Code](https://github.com/cxllm/corynth)) - A small, open source, multi-purpose discord bot coded in TypeScript
 - [**SkyNight Labs**](https://skynightlabs.com) - A small development group home to bots such as Corynth
 - [**My Notes**](https://notes.cxllm.xyz) ([Source Code](https://github.com/cxllm/articles)) - My articles/notes site written in Python, Markdown and HTML/CSS to work.
+- [**Bitcoin CLI**](https://pypi.org/projects/bitcoin-cli) ([Source Code](https://github.com/cxllm/bitcoin)) - A small CLI written in Python that tells you the current price of Bitcoin
 ## Some Links
 - [Website](https://cxllm.xyz/)
 - [Twitter](https://twitter.com/CX11M) 
