@@ -11,6 +11,7 @@ I'm Callum, a 13 year old developer from the UK. I code all sorts of things, mai
 - [Website](https://cxllm.xyz/)
 - [Twitter](https://twitter.com/CX11M) 
 - [Discord](https://discord.com/users/536949735299219467)
+- [PyPi](https://pypi.org/user/cxllm)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia&count_private=true)](https://github.com/cxllm)
 <br>
