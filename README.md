@@ -1,6 +1,6 @@
 ## Hello 👋 
 I'm Callum, a developer from the UK. I code all sorts of things, mainly in TypeScript, JavaScript & Python.
-<br>
+<br><br>
 <img src="https://avatars.githubusercontent.com/u/59397232?v=4"></img>
 <br>
 ## Some Links
