@@ -1,5 +1,6 @@
 ## Hello 👋 
-I'm Callum, a developer from the UK. I code all sorts of things, mainly in TypeScript, JavaScript & Python.
+I'm Callum, a developer from the UK. I code all sorts of things, mainly in TypeScript, JavaScript & Python. 
+To see some of my best work, please look at the pinned repos below!
 <br>
 ## Some Links
 - [Website](https://cxllm.xyz/)
