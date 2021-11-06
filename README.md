@@ -6,8 +6,7 @@ To see some of my best work, please look at the pinned repos below!
 - [Website](https://cxllm.com/)
 - [Twitter](https://twitter.com/CX11M) 
 - [Discord](https://discord.com/users/536949735299219467)
-- [PyPi](https://pypi.org/user/cxllm)
-- [Email](mailto:hello@cxllm.xyz)
+- [Blog](https://blog.cxllm.com/)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia&count_private=true)](https://github.com/cxllm)
 <br>
