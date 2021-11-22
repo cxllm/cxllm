@@ -3,10 +3,10 @@ I'm Callum, a developer from the UK. I code all sorts of things, mainly in TypeS
 To see some of my best work, please look at the pinned repos below!
 <br>
 ## Some Links
-- [Website](https://cxllm.com/)
+- [Website](https://cxllm.cf/)
 - [Twitter](https://twitter.com/CX11M) 
 - [Discord](https://discord.com/users/536949735299219467)
-- [Blog](https://blog.cxllm.com/)
+- [Blog](https://blog.cxllm.cf/)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia&count_private=true)](https://github.com/cxllm)
 <br>
