@@ -1,10 +1,10 @@
 ## Hello 👋 
-I'm Callum, a developer from the UK. I code all sorts of things, mainly in TypeScript, JavaScript & Python. 
-To see some of my best work, please look at the pinned repos below!
+I'm Callum, a student from the UK. I code all sorts of things, mainly in TypeScript, JavaScript & Python. 
+Some of my projects are available for you to see on my website and pinned below.
 <br>
 ## Some Links
-- [Website](https://cxllm.uk/)
-- [Twitter](https://twitter.com/ZXIIRJ) 
+- [Website](https://www.cxllm.uk/)
+- [Twitter/X](https://x.com/CX11M) 
 - [Discord](https://discord.com/users/536949735299219467)
 
 <!--[![Stats](https://github-readme-stats.vercel.app/api?username=cxllm&show_icons=true&theme=algolia&count_private=true)](https://github.com/cxllm)
