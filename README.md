@@ -1,4 +1,4 @@
-Hi, I'm Callum 👋
+# Hi, I'm Callum 👋
 CS & Maths Student @ University of Bath
 
 Interested in cybersecurity, transport planning and website development
