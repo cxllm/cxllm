@@ -1,8 +1,8 @@
 
       <svg
-        width="300"
-        height="165"
-        viewBox="0 0 300 165"
+        width="350"
+        height="247"
+        viewBox="0 0 350 247"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="299"
+          width="349"
           fill="#fffefe"
           stroke-opacity="1"
         />
@@ -120,116 +120,122 @@
           
     <svg data-testid="lang-items" x="25">
       
-  
-      <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-        </mask>
-        
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0"
-          y="0"
-          width="109.39"
-          height="8"
-          fill="#3178c6"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="109.39"
-          y="0"
-          width="67.67"
-          height="8"
-          fill="#3572A5"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="177.06"
-          y="0"
-          width="51.02"
-          height="8"
-          fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="228.08"
-          y="0"
-          width="11.47"
-          height="8"
-          fill="#663399"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="239.55"
-          y="0"
-          width="15.66"
-          height="8"
-          fill="#f1e05a"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="245.21"
-          y="0"
-          width="14.780000000000001"
-          height="8"
-          fill="#c6538c"
-        />
-      
-      
-    <g transform="translate(0, 25)">
-      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+    <g transform="translate(0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         TypeScript 43.76%
       </text>
     </g>
-  </g><g transform="translate(0, 25)">
+  </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 27.07%
       </text>
     </g>
-  </g><g transform="translate(0, 50)">
+  </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         HTML 20.41%
       </text>
     </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
+  </g><g transform="translate(0, 96)">
+    <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 4.59%
       </text>
     </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
+  </g><g transform="translate(0, 128)">
+    <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript 2.26%
       </text>
     </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
+  </g><g transform="translate(0, 160)">
+    <g class="stagger" style="animation-delay: 1200ms">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         SCSS 1.91%
       </text>
     </g>
-  </g></g>
+  </g>
+      </g>
+
+      <g transform="translate(125, -29)">
+        <svg width="350" height="350">
+       <g class="stagger" style="animation-delay: 600ms">
+        <path
+          data-testid="lang-donut"
+          size="43.76"
+          d="M 138.31916241993673 169.03345517585188 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
+          stroke="#3178c6"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 700ms">
+        <path
+          data-testid="lang-donut"
+          size="27.07"
+          d="M 61.93394277035002 131.34454273920113 A 56.66666666666667 56.66666666666667 0 0 0 138.31916241993673 169.03345517585188"
+          stroke="#3572A5"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 800ms">
+        <path
+          data-testid="lang-donut"
+          size="20.41"
+          d="M 87.02806250099465 68.3690036360218 A 56.66666666666667 56.66666666666667 0 0 0 61.93394277035002 131.34454273920113"
+          stroke="#e34c26"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 900ms">
+        <path
+          data-testid="lang-donut"
+          size="4.59"
+          d="M 101.9887905941322 61.93394277035002 A 56.66666666666667 56.66666666666667 0 0 0 87.02806250099465 68.3690036360218"
+          stroke="#663399"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 1000ms">
+        <path
+          data-testid="lang-donut"
+          size="2.26"
+          d="M 109.88247762522501 60.407570600687315 A 56.66666666666667 56.66666666666667 0 0 0 101.9887905941322 61.93394277035002"
+          stroke="#f1e05a"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 1100ms">
+        <path
+          data-testid="lang-donut"
+          size="1.91"
+          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 109.88247762522501 60.407570600687315"
+          stroke="#c6538c"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      </svg>
+      </g>
     </g>
   
     </svg>
